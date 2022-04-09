@@ -3,8 +3,6 @@
 
 ## A Quick Summary
 - 🔭 I’m currently working on a Bayesian Inference Framework to fit for dark matter related variables using data from the [CTA](https://www.cta-observatory.org)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’ve previously worked on creating quantized neural networks for data filtering for COMET phase I (through Monash University)
 - 💬 Feel free to ask me about bayesian inference and observational dark matter searches
 - 📫 How to reach me: lpin0002@student.monash.edu
